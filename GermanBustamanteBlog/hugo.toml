@@ -1,5 +1,5 @@
-baseURL = "http://germanbustamantedev.github.io/"
-title = "johndoe"
+baseURL = "http://germanbustamante.github.io/"
+title = "GermanDevBlog"
 theme = "hugo-coder"
 languageCode = "es"
 defaultContentLanguage = "es"
